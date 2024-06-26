@@ -2,7 +2,7 @@
 
 ## **Sobre mí**
 
-Mi nommbre es **Alberto Morales Flores** tengo 26 años, tengo experiencia de 3 años en la maquetación de sitios web mediante builders como **Elementor y Divi**, 
+Mi nombre es **Alberto Morales Flores** tengo 26 años, tengo experiencia de 3 años en la maquetación de sitios web mediante builders como **Elementor y Divi**, 
 pero con un amor incondicional al desarrollo web con lenguajes de programación, frameworks y más. 
 
 Para mi apreder cosas nuevas es una manera de alimentarme y crecer, recién comence de nueva cuenta a estudiar a fondo nuevas tecnologías por que quiero expandir mis
