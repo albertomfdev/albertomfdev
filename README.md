@@ -7,3 +7,8 @@ pero con un amor incondicional al desarrollo web con lenguajes de programación,
 
 Para mi apreder cosas nuevas es una manera de alimentarme y crecer, recién comence de nueva cuenta a estudiar a fondo nuevas tecnologías por que quiero expandir mis
 conocimientos y llegar a más personas y aprender de ellos. 
+
+## **Experiencia Laboral**
+
+### **Social Conecta Digital - Jefe de área sistemas y programación**
+####   2021 - ACTUALIDAD 
